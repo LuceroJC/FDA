@@ -1,0 +1,4 @@
+Python scripts for functional data analysis
+
+- installR.py: Installs James Ramsay's R package (fda)
+- timeReg: nonlinear temporal alignment of lip movement records
